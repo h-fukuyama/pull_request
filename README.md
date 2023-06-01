@@ -2,7 +2,7 @@
 
 text
 - list1
-  -lllll 
+  - lllll
 - list2
 - list3
 
